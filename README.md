@@ -2,11 +2,21 @@
 
 ---
 
+## Get the Full Version
+
+The complete Performance Test Readiness Checklist (cycle + run gates, full templates, structured evidence sections) is available here:
+
+👉 [Buy on Gumroad](https://your-gumroad-link)
+
+---
+
 ## License & Usage Notice
 
 © 2026 Akhilesh Sarfare. All rights reserved.
 
 This project performance readiness checklist package is a **commercial product** sold via Gumroad.
+
+👉 Purchase link: https://your-gumroad-link
 
 Purchase grants a **non-exclusive, non-transferable license** to:
 - Use these checklists for personal or internal organizational purposes
@@ -59,6 +69,7 @@ Example:
 ```md
 - [ ] ENV-01 Environment stable
 - [x] TS-03 Assertions validated
+```
 
 ### Fallback Marking Examples (Tool-Agnostic)
 - [X] WL-02 Load model approved
@@ -67,3 +78,5 @@ Example:
 
 ---
 
+This repository contains a limited demo.  
+The full professional package is available on Gumroad.
