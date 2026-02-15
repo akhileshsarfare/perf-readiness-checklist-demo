@@ -80,3 +80,10 @@ Example:
 
 This repository contains a limited demo.  
 The full professional package is available on Gumroad.
+
+---
+
+## Feedback & Suggestions
+
+Have ideas or improvements?  
+Open an issue in this repository.
