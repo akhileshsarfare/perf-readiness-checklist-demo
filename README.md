@@ -6,7 +6,7 @@
 
 The complete Performance Test Readiness Checklist (cycle + run gates, full templates, structured evidence sections) is available here:
 
-👉 [Buy on Gumroad](https://your-gumroad-link)
+👉 [Buy on Gumroad](https://akhileshsarfare.gumroad.com/l/qwoxu)
 
 ---
 
@@ -16,7 +16,7 @@ The complete Performance Test Readiness Checklist (cycle + run gates, full templ
 
 This project performance readiness checklist package is a **commercial product** sold via Gumroad.
 
-👉 Purchase link: https://your-gumroad-link
+👉 Purchase link: https://akhileshsarfare.gumroad.com/l/qwoxu
 
 Purchase grants a **non-exclusive, non-transferable license** to:
 - Use these checklists for personal or internal organizational purposes
@@ -80,6 +80,7 @@ Example:
 
 This repository contains a limited demo.  
 The full professional package is available on Gumroad.
+👉 Purchase link: https://akhileshsarfare.gumroad.com/l/qwoxu
 
 ---
 
