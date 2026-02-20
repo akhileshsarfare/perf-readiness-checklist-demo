@@ -34,6 +34,11 @@ For commercial redistribution or licensing inquiries, contact:
 
 ---
 
+## Quick pitch
+A compact, enforceable performance-test readiness checklist used for release-level and per-test sign-offs. Built for engineering teams who want discipline, traceability, and reproducible decision gates.
+
+---
+
 ## What this is
 This repository provides a **practical Performance Readiness Checklist** intended to be used:
 - Once per **performance test cycle / release**
@@ -43,12 +48,18 @@ The checklist is authored in **plain Markdown** so it can live with code, test a
 
 ---
 
-## What you get
+## What you get when you purchase
 - `pt-cycle-readiness-checklist.md` — gates validated once per PT cycle
 - `pt-test-run-checklist.md` — gates validated per test execution
 - `pt-cycle-readiness-sample-filled.md` — example output generated from a completed checklist (dummy data)
 - `pt-cycle-readiness-sample-filled.pdf` — layout illustration of a completed checklist (dummy data)
 - `README.md` — usage and workflow guidance
+
+---
+
+## How to preview
+- Browse `preview/` for redacted screenshots and a short demo excerpt.
+- The preview is intentionally partial to protect operational details.
 
 ---
 

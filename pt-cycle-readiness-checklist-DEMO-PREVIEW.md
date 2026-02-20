@@ -20,12 +20,12 @@
 
 ## 1. Scope & Objectives Gates (SO) — *Excerpt*
 
-**SO-01 PT scope definition**
-- [ ] Scope of the PT cycle is explicitly defined
-- [ ] Out-of-scope items are explicitly listed
+**SO-01  PT scope definition**
+- [ ] Scope of this PT cycle is explicitly defined
+- [ ] Scope includes all relevant items (new features, enhancements, bug fixes, config changes)
 
-**SO-02 Scope tracking reference**
-- [ ] PT scope is linked to a parent tracking item (e.g., Jira)
+**SO-02  Scope tracking reference**
+- [ ] A parent PT scope item exists in the project tracking system 
 
 > _Additional SO gates are intentionally omitted in this preview._
 
@@ -33,11 +33,11 @@
 
 ## 2. Environment Readiness Gates (ENV) — *Excerpt*
 
-**ENV-01 QA build stability**
-- [ ] QA regression completed and meets pass criteria
+**ENV-01  QA build is stable**
+- [ ] The latest build has passed one full QA regression (manual/automation) run with at least 90% test cases passing
 
-**ENV-02 Build parity**
-- [ ] QA-approved build deployed to performance environment
+**ENV-02  Same build is on Performance Environment**
+- [ ] The same build that passed QA is deployed to the Performance environment (application version, configurations, database version)
 
 > _Additional ENV gates are intentionally omitted in this preview._
 
@@ -45,7 +45,7 @@
 
 ## 3. Test Suite Quality Gates (TS) — *Excerpt*
 
-**TS-01 Core user flows**
+**TS-01  Core user flows covered**
 - [ ] Critical business flows are scripted and validated
 
 > _Additional TS gates are intentionally omitted in this preview._
@@ -54,8 +54,8 @@
 
 ## 4. Tooling & Observability Gates (TO) — *Excerpt*
 
-**TO-01 Performance tooling**
-- [ ] Tool name and version are recorded
+**TO-01 PT Tool**
+- [ ] Performance testing tool(s) recorded (e.g., LoadRunner, JMeter, etc.)
 
 > _Additional TO gates are intentionally omitted in this preview._
 
